@@ -1,0 +1,63 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.pad {
+  padding: 50px 0;
+}
+
+.pad-side {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.pad-sub-section {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.text-center {
+  text-align: center;
+  vertical-align: middle;
+}
+.text-center h1 {
+  font-size: 5em;
+  font-weight: 500;
+}
+
+#intro {
+  background: url(../../resources/images/background.jpg) no-repeat center center fixed; 
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  color:white;
+  padding-top: 10%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#portrait {
+  border-radius: 200px;
+}
+
+#education {
+  /*background: url(../../resources/images/rit_campus.jpg) no-repeat center center fixed; */  
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  color:black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+footer {
+  padding: 20px 0;
+  text-align: center;
+}
