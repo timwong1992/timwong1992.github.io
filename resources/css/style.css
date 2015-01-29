@@ -47,7 +47,6 @@ html, body {
 #education {
   /*background: url(../../resources/images/rit_campus.jpg) no-repeat center center fixed; */  
   display: table;
-  height: 100%;
   position: relative;
   width: 100%;
   color:black;
