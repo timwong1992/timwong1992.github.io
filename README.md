@@ -1,1 +1,1 @@
-Personal website
+Personal website and blog
